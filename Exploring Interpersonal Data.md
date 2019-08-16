@@ -1,4 +1,4 @@
-*Exploring InterPersonal Data*  
+**Exploring InterPersonal Data**  
 
 An RWoT9 Pre-read document. 
 
